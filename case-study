@@ -1,0 +1,1 @@
+In the given case study the Git Flow work flow will be suitable for the software release which is going to happen on 25t of everymonth. Multiple developers will be working on different branches adding new features and once the features are added, they will be added to develope branch which will finally be added to master after QA.
